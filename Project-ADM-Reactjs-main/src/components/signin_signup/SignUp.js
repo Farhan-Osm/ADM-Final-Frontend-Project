@@ -88,7 +88,7 @@ const Signup = () => {
                   placeholder="Enter 10 digit mobile number"
                   required
                 />
-                {!valid && <p>Please enter a valid 10-digit phone number</p>}
+                {!valid && <p className="text-sm">Please enter a valid phone number</p>}
               </div>
               <div className="form_data">
                 <label htmlFor="password">Password</label>

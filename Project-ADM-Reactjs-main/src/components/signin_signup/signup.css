@@ -150,7 +150,10 @@ section{
         font-size: larger;
     }
     .sign-page-logo2 img{
-        margin-left: 15vw;
+        margin-left: 12vw;
+    }
+    .sign_container{
+        min-height: 110vh;
     }
 
 }
